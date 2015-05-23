@@ -20,7 +20,7 @@
   "2": {
     "labels": {
       "en": "Automotive",
-      "de": "Kraftfahrzeug",
+      "de": "Kraftfahrzeuge",
       "fr": "Automobile",
       "es": "Automotriz",
       "jp": "自動車",
@@ -110,7 +110,7 @@
   "7": {
     "labels": {
       "en": "Car Wash and Detail",
-      "de": "Autowaschanlage und Sonstiges",
+      "de": "Autowaschanlagen und Sonstiges",
       "fr": "Lavage de Voitures et Détail",
       "es": "Lavacoches y Detalle",
       "jp": "洗車と清掃、手入れ",
@@ -308,7 +308,7 @@
   "18": {
     "labels": {
       "en": "Salvage Yards",
-      "de": "Schrottplatz",
+      "de": "Schrottplätze",
       "fr": "Casse",
       "es": "Patios de Salvamento",
       "jp": "廃車置き場",
@@ -326,7 +326,7 @@
   "19": {
     "labels": {
       "en": "Towing",
-      "de": "Abschleppen",
+      "de": "Abschleppdienste",
       "fr": "Remorquage",
       "es": "Remolque",
       "jp": "けん引",
@@ -362,7 +362,7 @@
   "21": {
     "labels": {
       "en": "Animal Shelters and Humane Societies",
-      "de": "Tierheime und Menschliche Gesellschaften",
+      "de": "Tierheime und Tierschutz",
       "fr": "Abris D'animaux et Sociétés de Protection Des Animaux",
       "es": "Refugios de Animales y Sociedades Humanas",
       "jp": "動物のシェルターと愛護団体",
@@ -416,7 +416,7 @@
   "24": {
     "labels": {
       "en": "Disabled Persons Services",
-      "de": "Dienstleistungen Für Menschen Mit Behinderung",
+      "de": "Dienstleistungen für Menschen mit Behinderung",
       "fr": "Services Aux Personnes À Mobilité Réduite",
       "es": "Servicios para Personas Deshabilitadas",
       "jp": "身体障害者支援",
@@ -488,7 +488,7 @@
   "28": {
     "labels": {
       "en": "Art Lessons and Schools",
-      "de": "Kunstunterricht und Schule",
+      "de": "Kunstunterricht und Kunstschulen",
       "fr": "Écoles et Leçons de Beaux-art",
       "es": "Lecciones de Arte y Escuelas",
       "jp": "美術教室と学校",
@@ -542,7 +542,7 @@
   "31": {
     "labels": {
       "en": "Culinary Lessons and Schools",
-      "de": "Kulinarischer Unterricht und Schulen",
+      "de": "Kochunterricht und Kochschulen",
       "fr": "Écoles Culinaires et Cours de Cuisine",
       "es": "Lecciones Culinarias y Escuelas",
       "jp": "料理教室、調理師学校",
@@ -578,7 +578,7 @@
   "33": {
     "labels": {
       "en": "Fraternities and Sororities",
-      "de": "Bruderschaften und Schwesternschaften",
+      "de": "Verbindungen und Burschenschaften",
       "fr": "Fraternités et Sororités",
       "es": "Fraternidades y Sororidades",
       "jp": "男子・女子社交クラブ",
@@ -596,7 +596,7 @@
   "34": {
     "labels": {
       "en": "Primary and Secondary Schools",
-      "de": "Haupt-und Realschulen",
+      "de": "Grundschulen und weiterführende Schulen",
       "fr": "Écoles Primaires et Secondaires",
       "es": "Escuelas Primaria y Secundaria",
       "jp": "小学校、中学／高等学校",
@@ -632,7 +632,7 @@
   "36": {
     "labels": {
       "en": "Vocational Schools",
-      "de": "Berufliche Schulen",
+      "de": "Berufsschulen",
       "fr": "Écoles de Formation Professionnelle",
       "es": "Escuelas de Formación Profesional",
       "jp": "職業専門学校",
@@ -668,7 +668,7 @@
   "38": {
     "labels": {
       "en": "Government Lobbyists",
-      "de": "Staatliche Interessenvertreter",
+      "de": "Lobbyisten",
       "fr": "Lobbyistes",
       "es": "Cabilderos del Gobierno",
       "jp": "政府ロビイスト",
@@ -686,7 +686,7 @@
   "39": {
     "labels": {
       "en": "Housing Assistance and Shelters",
-      "de": "Unterstützung Für Die Wohnung und Unterkünfte",
+      "de": "Sozialwohnungen und Notunterkünfte",
       "fr": "Aides Au Logement et Refuges",
       "es": "Asistencia para la Vivienda y Refugios",
       "jp": "住宅支援と施設",
@@ -740,7 +740,7 @@
   "42": {
     "labels": {
       "en": "Fire Stations",
-      "de": "Feuerwehr",
+      "de": "Feuerwehren",
       "fr": "Casernes de Pompiers",
       "es": "Estaciones de Bomberos",
       "jp": "消防署",
@@ -758,7 +758,7 @@
   "43": {
     "labels": {
       "en": "Police Stations",
-      "de": "Polizei-stationen",
+      "de": "Polizeistationen",
       "fr": "Stations de Police",
       "es": "Comisarías",
       "jp": "警察署",
@@ -812,7 +812,7 @@
   "46": {
     "labels": {
       "en": "Bases",
-      "de": "Militärstationen",
+      "de": "Militärbasen",
       "fr": "Bases Militaires",
       "es": "Bases",
       "jp": "基地",
@@ -992,7 +992,7 @@
   "56": {
     "labels": {
       "en": "Hindu Temples",
-      "de": "Hindu-tempel",
+      "de": "Hindu-Tempel",
       "fr": "Temples Hindous",
       "es": "Templos Hindúes",
       "jp": "ヒンズー教教会",
@@ -1046,7 +1046,7 @@
   "59": {
     "labels": {
       "en": "Senior Citizen Services",
-      "de": "Dienstleistungen Für Senioren",
+      "de": "Dienstleistungen für Senioren",
       "fr": "Services Aux Personnes Âgées",
       "es": "Servicios para Ciudadanos de la Tercera Edad",
       "jp": "老人福祉サービス",
